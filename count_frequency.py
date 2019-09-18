@@ -1,4 +1,4 @@
-MinTime=3  #set the minimum frequency for word
+nTime=3  #set the minimum frequency for word
 
 file=open("test.txt","r+")
 CountOutput=open("CountOutput.txt","wb")
